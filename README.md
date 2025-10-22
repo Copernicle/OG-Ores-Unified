@@ -10,15 +10,15 @@ This is OG-Ores Unified. The continuation of the OG-Ores project in a single rep
 ## Other, Similar Projects (I do not endorse!)
 
 ### Vanilla Tweaks (under the "Retro" section)
-https://vanillatweaks.net/picker/resource-packs/
+- https://vanillatweaks.net/picker/resource-packs/
 
 ### OG Ores (by PrivateMe, no "-")
-https://modrinth.com/resourcepack/og-ores-reborn and https://www.planetminecraft.com/texture-pack/og-ores-reborn/
-https://www.planetminecraft.com/texture-pack/og-ores/ (obsolete)
+- https://modrinth.com/resourcepack/og-ores-reborn and https://www.planetminecraft.com/texture-pack/og-ores-reborn/
+- https://www.planetminecraft.com/texture-pack/og-ores/ (obsolete)
 
 ### Various other Modrinth Packs:
-https://modrinth.com/resourcepack/classic-ores
-https://modrinth.com/resourcepack/old-ores-copper
-https://modrinth.com/resourcepack/old-ores
-https://modrinth.com/resourcepack/old-ores-for-java
-https://modrinth.com/resourcepack/classic-old-ores
+- https://modrinth.com/resourcepack/classic-ores
+- https://modrinth.com/resourcepack/old-ores-copper
+- https://modrinth.com/resourcepack/old-ores
+- https://modrinth.com/resourcepack/old-ores-for-java
+- https://modrinth.com/resourcepack/classic-old-ores
