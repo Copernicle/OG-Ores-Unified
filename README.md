@@ -5,7 +5,7 @@ This is OG-Ores Unified. The continuation of the OG-Ores project in a single rep
 ## Plans
 1. Ensure quality. [DONE]
 2. Update Pack Icons. [DONE]
-3. Release for all applicable Minecraft versions.
+3. Release for all applicable Minecraft versions. [DONE, as of 10/22/2025]
 
 ## Other, Similar Projects (I do not endorse!)
 
