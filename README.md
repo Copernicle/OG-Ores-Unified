@@ -7,7 +7,7 @@ This is OG-Ores Unified. The continuation of the OG-Ores project in a single rep
 2. Update Pack Icons. [DONE]
 3. Release for all applicable Minecraft versions. [DONE, as of 10/22/2025]
 4. ~~Add more example images to readme.~~ [I decided it doesn't need more.]
-5. Add classic-style nether quartz and nether gold extensions.
+5. Add classic-style nether quartz and nether gold extensions. [Initial Release]
 
 ## Other, Similar Projects (I do not endorse these, but please take a look to see which one is best for you.)
 
