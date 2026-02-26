@@ -2,13 +2,6 @@
 This is OG-Ores Unified. The continuation of the OG-Ores project in a single repository, with updates.
 <img width="854" height="303" alt="OG-Ores-Github-Picture" src="https://github.com/user-attachments/assets/dc4c6f48-2d54-462d-acde-e297f7068a85" />
 
-## Plans
-1. Ensure quality. [DONE]
-2. Update Pack Icons. [DONE]
-3. Release for all applicable Minecraft versions. [DONE, as of 10/22/2025]
-4. ~~Add more example images to readme.~~ [I decided it doesn't need more.]
-5. Add classic-style nether quartz and nether gold extensions. [Initial Release]
-
 ## Other, Similar Projects (I do not endorse these, but please take a look to see which one is best for you.)
 
 ### Vanilla Tweaks (under the "Retro" section)
